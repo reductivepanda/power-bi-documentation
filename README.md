@@ -1,6 +1,6 @@
 # Power BI articles and documentation
 
-## <img src="../../_resources/PowerBI_logo_cover.png" alt="PowerBI_logo_cover.png" width="175" height="98">
+## <img src="../_resources/PowerBI_logo_cover.png" alt="PowerBI_logo_cover.png" width="175" height="98">
 
 ## TAGS
 
