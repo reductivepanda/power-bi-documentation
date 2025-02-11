@@ -3,7 +3,7 @@
 ## <img src="./_resources/PowerBI_logo_cover.png" alt="PowerBI_logo_cover.png" width="175" height="98">
 
 ## TAGS
-
+-  test
 -  article-type
     - How-To
         
